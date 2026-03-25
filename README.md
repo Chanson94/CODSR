@@ -63,7 +63,7 @@ Download Models
 ```
 sh test.sh
 ```
-1
+
 ## 🚀 Calculate Inference Time
 For easy comparison, we provide the inference time testing script for CODSR.
 ```
