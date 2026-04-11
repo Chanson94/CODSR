@@ -20,7 +20,7 @@
 
 ### 😊 You may also want to check our relevant works:
 
-1. **FaithDiff (CVPR2025)** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_FaithDiff_Unleashing_Diffusion_Priors_for_Faithful_Image_Super-resolution_CVPR_2025_paper.pdf) | [Code](https://github.com/JyChen9811/FaithDiff)  
+1. **FaithDiff (CVPR 2025)** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_FaithDiff_Unleashing_Diffusion_Priors_for_Faithful_Image_Super-resolution_CVPR_2025_paper.pdf) | [Code](https://github.com/JyChen9811/FaithDiff)  
 Unleashing diffusion priors with feature alignment and joint VAE–LDM optimization for faithful SR.
 
 2. **STCDiT (CVPR 2026)** [Paper](https://arxiv.org/abs/2511.18786) | [Code](https://github.com/JyChen9811/STCDiT)  
