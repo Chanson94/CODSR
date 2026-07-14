@@ -76,7 +76,7 @@ sh metrics.sh
 ```
 
 ## ⚡ How to train
-#### We leverage the degradation pipeline from [PASD](https://github.com/yangxy/PASD) to synthesize training data offline.
+#### We leverage the degradation pipeline from [PASD](https://github.com/yangxy/PASD/blob/main/pasd/dataloader/params_realesrgan.yml) to synthesize training data offline.
 ### Stage 1
 ```Shell
 bash train_stage1.sh
