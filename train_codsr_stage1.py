@@ -241,8 +241,8 @@ def main(args):
             num_cycles=args.lr_num_cycles, power=args.lr_power)
 
     ### new datasets
-    img_file_path = ['/home/notebook/data/group/ch/Datasets/High_quality_training_data/DIV2K/HR_crops', '/home/notebook/data/group/ch/Datasets/High_quality_training_data/DIV8K/HR_crops', '/home/notebook/data/group/ch/Datasets/High_quality_training_data/LSDIR/HR_crops']
-    lq_img_file_path = ['/home/notebook/data/group/ch/Datasets/High_quality_training_data/DIV2K/LR_crops', '/home/notebook/data/group/ch/Datasets/High_quality_training_data/DIV8K/LR_crops', '/home/notebook/data/group/ch/Datasets/High_quality_training_data/LSDIR/LR_crops']
+    img_file_path = ['/home/notebook/data/group/ch/Datasets/High_quality_training_data/DIV2K/HR_crops', '/home/notebook/data/group/ch/Datasets/High_quality_training_data/DIV8K/HR_crops', '/home/notebook/data/group/ch/Datasets/High_quality_training_data/LSDIR/HR_crops', '/home/notebook/data/group/ch/Datasets/High_quality_training_data/Flickr2K/HR_crops']
+    lq_img_file_path = ['/home/notebook/data/group/ch/Datasets/High_quality_training_data/DIV2K/LR_crops', '/home/notebook/data/group/ch/Datasets/High_quality_training_data/DIV8K/LR_crops', '/home/notebook/data/group/ch/Datasets/High_quality_training_data/LSDIR/LR_crops', '/home/notebook/data/group/ch/Datasets/High_quality_training_data/Flickr2K/LR_crops']
     face_file_path = ['/home/notebook/data/group/ch/Datasets/High_quality_training_data/FFHQ/HR_crops']
     face_lq_file_path = ['/home/notebook/data/group/ch/Datasets/High_quality_training_data/FFHQ/LR_crops_1']
     
