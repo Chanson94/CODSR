@@ -4,22 +4,22 @@ gray_prob: 0.0
 
 # the first degradation process
 resize_prob: [0.2, 0.7, 0.1]  # up, down, keep
-resize_range: [0.15, 1.5]
+resize_range: [0.3, 1.5]
 gaussian_noise_prob: 0.5
-noise_range: [1, 30]
-poisson_scale_range: [0.05, 3.0]
+noise_range: [1, 15]
+poisson_scale_range: [0.05, 2.0]
 gray_noise_prob: 0.4
-jpeg_range: [30, 95]
+jpeg_range: [60, 95]
 
 # the second degradation process
-second_blur_prob: 0.8
+second_blur_prob: 0.5
 resize_prob2: [0.3, 0.4, 0.3]  # up, down, keep
-resize_range2: [0.3, 1.2]
+resize_range2: [0.6, 1.2]
 gaussian_noise_prob2: 0.5
-noise_range2: [1, 25]
-poisson_scale_range2: [0.05, 2.5]
+noise_range2: [1, 12]
+poisson_scale_range2: [0.05, 1.0]
 gray_noise_prob2: 0.4
-jpeg_range2: [30, 95]
+jpeg_range2: [60, 100]
 
 kernel_info:
     blur_kernel_size: 21
