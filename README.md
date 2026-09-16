@@ -121,7 +121,7 @@ If this work is helpful for your research, please consider citing the following 
 ```
 
 ### Contact
-If you have any questions, please feel free to reach us out at <a href="mailto:chenhao_jxpyy@njust.edu.cn">chenhao_jxpyy@njust.edu.cn</a>.
+If you have any questions, please feel free to reach us out at <a href="mailto:csch@njust.edu.cn">csch@njust.edu.cn</a>.
 
 ### Acknowledgments
 Our project is based on [OSEDiff](https://github.com/cswry/OSEDiff), [CoMat](https://github.com/CaraJ7/CoMat) and [Grounded SAM2](https://github.com/IDEA-Research/Grounded-SAM-2). Thanks for their awesome works.
